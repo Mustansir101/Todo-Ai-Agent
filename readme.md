@@ -44,7 +44,8 @@ Command-Line Todo AI assistant that:
 - Go for shopping today
 - Record a video for TikTok
 - Complete my assignment
-
+```
+```
 >> Add a task for shopping Groceries
 🤖:  Can u tell me what all items do you want to shop for?
 
