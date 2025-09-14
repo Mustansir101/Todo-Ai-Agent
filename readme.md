@@ -3,7 +3,7 @@
 AI-powered Todo app where the agent (via Gemini API) outputs JSON instructions like
 
 ```json
-{"type": "action", "function": "getAllTodos", "input": ""}.
+{"type": "action", "function": "getAllTodos", "input": ""}
 ```
 
 These are then parsed and mapped to real CRUD functions that operate on Postgres DB (using Drizzle ORM).
